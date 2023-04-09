@@ -1,0 +1,16 @@
+h2 {
+    color: deeppink;
+    background-color: violet;
+}
+body {
+    background-color: violet;
+}
+#block1 {
+    width: 500px;
+    height: 500px;
+    background-color: bisque;
+}
+.inline-block {
+    width: 500px;
+    height: 500px;
+}
